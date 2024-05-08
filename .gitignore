@@ -6,3 +6,6 @@ src/camel/
 *.zip
 src.zip
 src.zip
+
+
+**/.DS_Store
